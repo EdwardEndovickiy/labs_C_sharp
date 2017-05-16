@@ -1,0 +1,5 @@
+/Users/endovickiy/Projects/lab2/lab2/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/endovickiy/Projects/lab2/lab2/bin/Debug/lab2.dll.mdb
+/Users/endovickiy/Projects/lab2/lab2/bin/Debug/lab2.dll
+/Users/endovickiy/Projects/lab2/lab2/obj/Debug/lab2.dll
+/Users/endovickiy/Projects/lab2/lab2/obj/Debug/lab2.dll.mdb
