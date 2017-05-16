@@ -1,0 +1,6 @@
+E:\Users\projectVS\lab7\lab7\bin\Debug\lab7.exe.config
+E:\Users\projectVS\lab7\lab7\bin\Debug\lab7.exe
+E:\Users\projectVS\lab7\lab7\bin\Debug\lab7.pdb
+E:\Users\projectVS\lab7\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+E:\Users\projectVS\lab7\lab7\obj\Debug\lab7.exe
+E:\Users\projectVS\lab7\lab7\obj\Debug\lab7.pdb
