@@ -1,0 +1,6 @@
+E:\Users\projectVS\11\11\bin\Debug\11.exe.config
+E:\Users\projectVS\11\11\bin\Debug\11.exe
+E:\Users\projectVS\11\11\bin\Debug\11.pdb
+E:\Users\projectVS\11\11\obj\Debug\11.csprojResolveAssemblyReference.cache
+E:\Users\projectVS\11\11\obj\Debug\11.exe
+E:\Users\projectVS\11\11\obj\Debug\11.pdb

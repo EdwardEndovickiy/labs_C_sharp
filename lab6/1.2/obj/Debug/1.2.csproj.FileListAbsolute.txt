@@ -1,0 +1,12 @@
+E:\Users\projectVS\11\1.2\bin\Debug\1.2.exe.config
+E:\Users\projectVS\11\1.2\bin\Debug\1.2.exe
+E:\Users\projectVS\11\1.2\bin\Debug\1.2.pdb
+E:\Users\projectVS\11\1.2\obj\Debug\1.2.exe
+E:\Users\projectVS\11\1.2\obj\Debug\1.2.pdb
+E:\Users\projectVS\11\1.2\obj\Debug\1.2.csprojResolveAssemblyReference.cache
+F:\МП (Еремеев В.В)\11\1.2\bin\Debug\1.2.exe.config
+F:\МП (Еремеев В.В)\11\1.2\obj\Debug\1.2.exe
+F:\МП (Еремеев В.В)\11\1.2\obj\Debug\1.2.pdb
+F:\МП (Еремеев В.В)\11\1.2\bin\Debug\1.2.exe
+F:\МП (Еремеев В.В)\11\1.2\bin\Debug\1.2.pdb
+F:\МП (Еремеев В.В)\11\1.2\obj\Debug\1.2.csprojResolveAssemblyReference.cache

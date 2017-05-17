@@ -1,0 +1,12 @@
+E:\Users\projectVS\11\3\bin\Debug\3.exe.config
+E:\Users\projectVS\11\3\bin\Debug\3.exe
+E:\Users\projectVS\11\3\bin\Debug\3.pdb
+E:\Users\projectVS\11\3\obj\Debug\3.exe
+E:\Users\projectVS\11\3\obj\Debug\3.pdb
+E:\Users\projectVS\11\3\obj\Debug\3.csprojResolveAssemblyReference.cache
+F:\МП (Еремеев В.В)\11\3\bin\Debug\3.exe.config
+F:\МП (Еремеев В.В)\11\3\obj\Debug\3.exe
+F:\МП (Еремеев В.В)\11\3\obj\Debug\3.pdb
+F:\МП (Еремеев В.В)\11\3\bin\Debug\3.exe
+F:\МП (Еремеев В.В)\11\3\bin\Debug\3.pdb
+F:\МП (Еремеев В.В)\11\3\obj\Debug\3.csprojResolveAssemblyReference.cache

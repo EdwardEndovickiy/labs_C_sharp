@@ -1,0 +1,6 @@
+F:\МП (Еремеев В.В)\11\4\bin\Debug\4.exe.config
+F:\МП (Еремеев В.В)\11\4\bin\Debug\4.exe
+F:\МП (Еремеев В.В)\11\4\bin\Debug\4.pdb
+F:\МП (Еремеев В.В)\11\4\obj\Debug\4.csprojResolveAssemblyReference.cache
+F:\МП (Еремеев В.В)\11\4\obj\Debug\4.exe
+F:\МП (Еремеев В.В)\11\4\obj\Debug\4.pdb
